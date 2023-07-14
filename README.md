@@ -2,4 +2,4 @@
 
 react shop with stripe and auth0
 
-test
+### project is hosted [here](https://creamdreamslickboy.netlify.app)
